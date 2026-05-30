@@ -1,52 +1,114 @@
-# \# Bank Loan Analytics Dashboard
+# Bank Loan Analytics Dashboard
+
+# Project Overview
 
 # 
 
-# \## Project Overview
+# This project analyzes bank loan applications, funded amounts, repayments, interest rates, and loan performance using Power BI.
 
 # 
 
-# This project analyzes bank loan applications,
-
-# funded amounts, repayments, interest rates,
-
-# and loan performance using Power BI.
+# The dashboard helps stakeholders monitor:
 
 # 
 
-# \## Tools Used
+# Total Loan Applications
+
+# Total Funded Amount
+
+# Total Amount Received
+
+# Average Interest Rate
+
+# Average DTI Ratio
+
+# Good vs Bad Loans
+
+# Loan Status Analysis
+
+# Monthly Loan Trends
+
+# Loan Applications by State
+
+# Loan Purpose Analysis
+
+# Home Ownership Analysis
+
+# Loan Term Distribution
+
+# Tools Used
+
+# Power BI
+
+# Power Query
+
+# DAX
+
+# Excel / CSV Dataset
+
+# Dashboard Pages
+
+# Overview Dashboard
 
 # 
 
-# \- Power BI
-
-# \- DAX
-
-# \- Power Query
+# Summary Dashboard
 
 # 
 
-# \## Dashboard Screenshots
+# Key KPIs
+
+# KPI	Value
+
+# Total Loan Applications	38,576
+
+# Total Funded Amount	435.8M
+
+# Total Amount Received	473.1M
+
+# Average Interest Rate	12.05%
+
+# Average DTI Ratio	13.33%
+
+# Insights
+
+# Good Loans
+
+# 86.18% of total applications
+
+# 370.2M funded amount
+
+# 435.8M amount received
+
+# Bad Loans
+
+# 13.82% of total applications
+
+# 65.5M funded amount
+
+# 37.3M amount received
+
+# Trends
+
+# Loan applications increased throughout the year.
+
+# December recorded the highest applications.
+
+# Debt Consolidation was the most common loan purpose.
+
+# Rent and Mortgage customers dominated loan applications.
+
+# Files Included
+
+# Power BI Dashboard (.pbix)
+
+# Dataset
+
+# Dashboard Screenshots
 
 # 
 
-# !\[Overview](overview.png)
-
 # 
 
-# !\[Summary](summary.png)
-
-# 
-
-# \## Key Insights
-
-# 
-
-# \- 86.18% loans are Good Loans
-
-# \- 13.82% loans are Bad Loans
-
-# \- Total Funded Amount: 435.8M
-
-# \- Total Amount Received: 473.1M
+# Aspiring Data Analyst
 
