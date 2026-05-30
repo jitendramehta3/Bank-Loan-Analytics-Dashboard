@@ -106,9 +106,7 @@
 
 # Dashboard Screenshots
 
-# 
 
-# 
 
 # Aspiring Data Analyst
 
