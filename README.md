@@ -23,7 +23,7 @@ The dashboard helps stakeholders monitor:
 * DAX
 * Excel / CSV Dataset
 
-# Dashboard Pages
+## Dashboard Pages
 * Overview Dashboard
 * Summary Dashboard
 
@@ -44,15 +44,15 @@ The dashboard helps stakeholders monitor:
 
 ## Insights
 
-# Good Loans
+## Good Loans
 * 86.18% of total applications
 * 370.2M funded amount
 * 435.8M amount received
-# Bad Loans
+## Bad Loans
 * 13.82% of total applications
 * 65.5M funded amount
 * 37.3M amount received
-# Trends
+## Trends
 * Loan applications increased throughout the year.
 * December recorded the highest applications.
 * Debt Consolidation was the most common loan purpose.
