@@ -24,8 +24,8 @@ DAX
 Excel / CSV Dataset
 
 # Dashboard Pages
-Overview Dashboard
-Summary Dashboard
+* Overview Dashboard
+* Summary Dashboard
 
 ## Tools Used
 -Power BI
