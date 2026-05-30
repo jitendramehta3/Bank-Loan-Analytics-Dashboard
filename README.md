@@ -62,6 +62,3 @@ The dashboard helps stakeholders monitor:
 * Power BI Dashboard (.pbix)
 * Dataset
 * Dashboard Screenshots
-* Power BI Dashboard (.pbix)
-* Dataset
-* Dashboard Screenshots
