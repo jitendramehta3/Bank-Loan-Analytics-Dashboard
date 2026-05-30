@@ -5,33 +5,33 @@ This project analyzes bank loan applications, funded amounts, repayments, intere
 
 The dashboard helps stakeholders monitor:
 
-Total Loan Applications
-Total Funded Amount
-Total Amount Received
-Average Interest Rate
-Average DTI Ratio
-Good vs Bad Loans
-Loan Status Analysis
-Monthly Loan Trends
-Loan Applications by State
-Loan Purpose Analysis
-Home Ownership Analysis
-Loan Term Distribution
-Tools Used
-Power BI
-Power Query
-DAX
-Excel / CSV Dataset
+* Total Loan Applications
+* Total Funded Amount
+* Total Amount Received
+* Average Interest Rate
+* Average DTI Ratio
+* Good vs Bad Loans
+* Loan Status Analysis
+* Monthly Loan Trends
+* Loan Applications by State
+* Loan Purpose Analysis
+* Home Ownership Analysis
+* Loan Term Distribution
+* Tools Used
+* Power BI
+* Power Query
+* DAX
+* Excel / CSV Dataset
 
 # Dashboard Pages
 * Overview Dashboard
 * Summary Dashboard
 
 ## Tools Used
--Power BI
--Power Query
--DAX
--Excel / CSV Dataset
+* Power BI
+* Power Query
+* DAX
+* Excel / CSV Dataset
 
 
 ## Key KPIs
@@ -45,23 +45,23 @@ Excel / CSV Dataset
 ## Insights
 
 # Good Loans
-86.18% of total applications
-370.2M funded amount
-435.8M amount received
+* 86.18% of total applications
+* 370.2M funded amount
+* 435.8M amount received
 # Bad Loans
-13.82% of total applications
-65.5M funded amount
-37.3M amount received
+* 13.82% of total applications
+* 65.5M funded amount
+* 37.3M amount received
 # Trends
-Loan applications increased throughout the year.
-December recorded the highest applications.
-Debt Consolidation was the most common loan purpose.
-Rent and Mortgage customers dominated loan applications.
+* Loan applications increased throughout the year.
+* December recorded the highest applications.
+* Debt Consolidation was the most common loan purpose.
+* Rent and Mortgage customers dominated loan applications.
 
 ## File Includes
-Power BI Dashboard (.pbix)
-Dataset
-Dashboard Screenshots
-Power BI Dashboard (.pbix)
-Dataset
-Dashboard Screenshots
+* Power BI Dashboard (.pbix)
+* Dataset
+* Dashboard Screenshots
+* Power BI Dashboard (.pbix)
+* Dataset
+* Dashboard Screenshots
